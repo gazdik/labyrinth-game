@@ -1,13 +1,14 @@
 # Projekt k predmetu ICP - Labyrinth
 
 Autori:
+
 	- Peter Gazdík <xgazdi03@stud.fit.vutbr.cz>
 	- Klára Mihalíková <xmihal05@stud.fit.vutbr.cz>
 
 ## Potrebné knižnice:
 
-QT vo verzii 5.2.1
-BOOST vo verzii 1.55.0
+- QT vo verzii 5.2.1
+- BOOST vo verzii 1.55.0
 
 ## Popis projektu:
 
