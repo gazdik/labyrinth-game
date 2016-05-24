@@ -1,9 +1,9 @@
 # Projekt k predmetu ICP - Labyrinth
 
-Autori:
+### Autori:
 
-	- Peter Gazdík <xgazdi03@stud.fit.vutbr.cz>
-	- Klára Mihalíková <xmihal05@stud.fit.vutbr.cz>
+- Peter Gazdík, xgazdi03@stud.fit.vutbr.cz
+- Klára Mihalíková, xmihal05@stud.fit.vutbr.cz
 
 ## Potrebné knižnice:
 
